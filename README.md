@@ -22,7 +22,7 @@ Al terminar el curso, el estudiante debe:
 
 ## Tópicos
 
-* Módulo 1. Evaluación de propiedades termodinámicas de sustancias puras.
+* [Módulo 1](py/modulo01.ipynb). Evaluación de propiedades termodinámicas de sustancias puras.
 * Módulo 2. Evaluación de propiedades en soluciones.
 * Módulo 3. Equilibrio líquido-vapor en soluciones no ideales.
 * Módulo 4. Evaluación de propiedades en sistemas reactivos.
