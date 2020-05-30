@@ -27,7 +27,7 @@ Al terminar el curso, el estudiante debe:
 En este módulo se presentan diversas metodologías para evaluar propiedades termodinámicas de componentes gaseosos y líquidos puros aplicados a procesos industriales básicos.
 
 Clase | Descripción | Presentación
-------| ------------| ------------
+------|------------|------------
  1. | Repaso de primera ley de termodinámica | [[slides]](https://goo.gl/QvMnH9) 
  2. | Repaso de segunda ley de termodinámica | [[slides]](https://goo.gl/6eW9M2) 
  3. | Primera y segunda ley de la termodinámica combinada. | [[slides]](https://goo.gl/585Mhb) 
@@ -41,7 +41,7 @@ Clase | Descripción | Presentación
 En esta parte del curso se incorpora los conceptos necesarios para estimar las propiedades soluciones ideales homogéneas de gases y líquidas. Estos conceptos son aplicados a cálculos de equilibrio de fases.
 
 Clase | Descripción | Presentación | Video
-------| ------------| ------------ | ----
+------|-------------|-------------|----
  1. | Introducción a la termodinámica de soluciones. [[slides]](https://goo.gl/8UjeP1) | [[videolecture]](https://youtu.be/bBI2rHMF9pI)
  2. | Soluciones ideales de gases ideales. [[slides]](https://goo.gl/JCgbRB) |  [[videolecture]](https://youtu.be/MeD8GI11pqk)
  3. | Soluciones ideales de gases reales. [[slides]](https://goo.gl/v5qQwY) | [[videolecture]](https://youtu.be/GBZYPOUvEjY)
@@ -54,7 +54,7 @@ Clase | Descripción | Presentación | Video
 En esta parte del curso se incorpora los conceptos necesarios para estimar las propiedades soluciones no ideales homogéneas de gases y líquidas. Estos conceptos son aplicados a cálculos de equilibrio de fases.
 
 Clase | Descripción | Presentación | Video
-------| ------------| ------------ | -----
+------|------------|------------|-----
 1. | Propiedad cambio de mezclado.| [[slides]](https://goo.gl/gCBwxe) | [[videolecture]](https://youtu.be/iIR5qXtFdcY)
 2. | Propiedades de Exceso. | [[slides]](https://goo.gl/ZN2pNA) |
 3. | Coeficiente de actividad. | [[slides]](https://goo.gl/qZ6c8M) |
@@ -68,7 +68,7 @@ Clase | Descripción | Presentación | Video
 Se introduce los conceptos y técnicas de resolución para estimar las propiedades de sistemas reactivos cuando se alcanza el equilibrio químico termodinámico.
 
 Clase | Descripción | Presentación
-------| ------------| ------------
+------|------------|------------
 1. | Balance molar en sistemas reactivos. | [[slides]](https://goo.gl/zGt57Q)
 2. | Criterio de equilibrio químico. | [[slides]](https://goo.gl/LHaEVc)
 3. | Cálculo de constante de equilibrio químico. | [[slides]](https://goo.gl/dtv4Ys)
