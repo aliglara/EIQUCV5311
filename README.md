@@ -22,7 +22,7 @@ Al terminar el curso, el estudiante debe:
 
 ## Tópicos
 
-### Módulo 1. Evaluación de propiedades de componentes puros.**
+### Módulo 1. Evaluación de propiedades de componentes puros.
 
 En este módulo se presentan diversas metodologías para evaluar propiedades termodinámicas de componentes gaseosos y líquidos puros aplicados a procesos industriales básicos.
 
@@ -36,7 +36,7 @@ Clase|Descripción|Presentación
  6 | Propiedades residuales | [slides](https://goo.gl/aKRLJS)
  7 | Cálculo de fugacidad y coeficiente de fugacidad | [slides](https://goo.gl/Hpojgg)
 
-### Módulo 2. Evaluación de propiedades de soluciones homogéneas ideales.**
+### Módulo 2. Evaluación de propiedades de soluciones homogéneas ideales.
 
 En esta parte del curso se incorpora los conceptos necesarios para estimar las propiedades soluciones ideales homogéneas de gases y líquidas. Estos conceptos son aplicados a cálculos de equilibrio de fases.
 
@@ -49,7 +49,7 @@ Clase|Descripción|Presentación|Video
  5 | Fundamentos de equilibrio de fases. | [slides](https://goo.gl/3d72tD) | [videolecture](https://youtu.be/8--T4qi_5ps)
  6 | Cálculo de ELV en soluciones ideales. | [slides](https://goo.gl/o521xL) | [videolecture](https://youtu.be/2HwY9Zf4Zzw)
 
-### Módulo 3. Evaluación de propiedades de soluciones homogéneas no ideales.**
+### Módulo 3. Evaluación de propiedades de soluciones homogéneas no ideales.
 
 En esta parte del curso se incorpora los conceptos necesarios para estimar las propiedades soluciones no ideales homogéneas de gases y líquidas. Estos conceptos son aplicados a cálculos de equilibrio de fases.
 
@@ -63,7 +63,7 @@ Clase|Descripción|Presentación|Video
 6 | Cálculo de ELV en soluciones no ideales. | [slides](https://goo.gl/xGZ9rK) |
 7 | Balance de energía en sistema de equilibrio de fases. | [slides](https://goo.gl/J953RD) |
 
-### Módulo 4. Evaluación de propiedades en sistemas reactivos.**
+### Módulo 4. Evaluación de propiedades en sistemas reactivos.
 
 Se introduce los conceptos y técnicas de resolución para estimar las propiedades de sistemas reactivos cuando se alcanza el equilibrio químico termodinámico.
 
