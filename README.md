@@ -26,7 +26,7 @@ Al terminar el curso, el estudiante debe:
 
 En este módulo se presentan diversas metodologías para evaluar propiedades termodinámicas de componentes gaseosos y líquidos puros aplicados a procesos industriales básicos.
 
-Clase | Descripción | Presentación
+Clase|Descripción|Presentación
 ------|------------|------------
  1. | Repaso de primera ley de termodinámica | [[slides]](https://goo.gl/QvMnH9) 
  2. | Repaso de segunda ley de termodinámica | [[slides]](https://goo.gl/6eW9M2) 
@@ -40,20 +40,20 @@ Clase | Descripción | Presentación
 
 En esta parte del curso se incorpora los conceptos necesarios para estimar las propiedades soluciones ideales homogéneas de gases y líquidas. Estos conceptos son aplicados a cálculos de equilibrio de fases.
 
-Clase | Descripción | Presentación | Video
-------|-------------|-------------|----
- 1. | Introducción a la termodinámica de soluciones. [[slides]](https://goo.gl/8UjeP1) | [[videolecture]](https://youtu.be/bBI2rHMF9pI)
- 2. | Soluciones ideales de gases ideales. [[slides]](https://goo.gl/JCgbRB) |  [[videolecture]](https://youtu.be/MeD8GI11pqk)
- 3. | Soluciones ideales de gases reales. [[slides]](https://goo.gl/v5qQwY) | [[videolecture]](https://youtu.be/GBZYPOUvEjY)
- 4. | Soluciones líquidas ideales. [[slides]](https://goo.gl/zz3ZnP) |
- 5. | Fundamentos de equilibrio de fases. [[slides]](https://goo.gl/3d72tD) | [[videolecture]](https://youtu.be/8--T4qi_5ps)
-6. | Cálculo de ELV en soluciones ideales. [[slides]](https://goo.gl/o521xL) | [[videolecture]](https://youtu.be/2HwY9Zf4Zzw)
+Clase|Descripción|Presentación|Video
+-----|-----------|------------|-----
+ 1. | Introducción a la termodinámica de soluciones. | [[slides]](https://goo.gl/8UjeP1) | [[videolecture]](https://youtu.be/bBI2rHMF9pI)
+ 2. | Soluciones ideales de gases ideales. | [[slides]](https://goo.gl/JCgbRB) |  [[videolecture]](https://youtu.be/MeD8GI11pqk)
+ 3. | Soluciones ideales de gases reales. | [[slides]](https://goo.gl/v5qQwY) | [[videolecture]](https://youtu.be/GBZYPOUvEjY)
+ 4. | Soluciones líquidas ideales. | [[slides]](https://goo.gl/zz3ZnP) | video
+ 5. | Fundamentos de equilibrio de fases. | [[slides]](https://goo.gl/3d72tD) | [[videolecture]](https://youtu.be/8--T4qi_5ps)
+6. | Cálculo de ELV en soluciones ideales. | [[slides]](https://goo.gl/o521xL) | [[videolecture]](https://youtu.be/2HwY9Zf4Zzw)
 
 ### Módulo 3. Evaluación de propiedades de soluciones homogéneas no ideales.**
 
 En esta parte del curso se incorpora los conceptos necesarios para estimar las propiedades soluciones no ideales homogéneas de gases y líquidas. Estos conceptos son aplicados a cálculos de equilibrio de fases.
 
-Clase | Descripción | Presentación | Video
+Clase|Descripción|Presentación|Video
 ------|------------|------------|-----
 1. | Propiedad cambio de mezclado.| [[slides]](https://goo.gl/gCBwxe) | [[videolecture]](https://youtu.be/iIR5qXtFdcY)
 2. | Propiedades de Exceso. | [[slides]](https://goo.gl/ZN2pNA) |
