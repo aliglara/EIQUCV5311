@@ -10,4 +10,4 @@ T(K) | Psat(bar)
 425	| 0.5543
 440	| 0.8389
 
-[Solucion](../py/T01_agl_coef_Antoine.ipynb)
+[Solucion](../py/T01_agl_coef_antoine.ipynb)
