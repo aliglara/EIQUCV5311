@@ -1,1 +1,7 @@
+__pychache__
+*.egg-info
 .ipynb_checkpoints
+.DS_Store
+*~
+*.bak
+.pytest_cache
