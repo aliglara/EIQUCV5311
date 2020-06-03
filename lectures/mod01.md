@@ -18,4 +18,5 @@ Clase|Descripción|Presentación
  
  Descripcion | Explicacion | Solucion
  -----------|--------------|---------
+ [Uso de Ecuaciones de Estado](../problemas/T01-PengRob.md) | | [T01-Peng_Robinson.ipynb](../py/T01_013_cp_001.ipynb)
  [Coef. de Ec. de Antoine](../problemas/T01-Antoine.md) | | [T01-Antoine.ipynb](../py/T01_agl_coef_antoine.ipynb)
