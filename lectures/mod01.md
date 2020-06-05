@@ -6,17 +6,17 @@ En este modulo se desarrollan las ecuaciones fundamentales de termodinámicas pa
 
 Clase|Descripción|Presentación
 ------|------------|------------
- 1 | Repaso de primera ley de termodinámica | [slides](https://goo.gl/QvMnH9) 
- 2 | Repaso de segunda ley de termodinámica | [slides](https://goo.gl/6eW9M2) 
- 3 | Primera y segunda ley de la termodinámica combinada. | [slides](https://goo.gl/585Mhb) 
+ 1 | Repaso de primera ley de termodinámica | [slides](https://goo.gl/QvMnH9)
+ 2 | Repaso de segunda ley de termodinámica | [slides](https://goo.gl/6eW9M2)
+ 3 | Primera y segunda ley de la termodinámica combinada. | [slides](https://goo.gl/585Mhb)
  4 | Propiedades para gases ideales. | [slides](https://goo.gl/YpQLkJ)
  5 | Evaluación de propiedades termodinámicas para gases reales. | [slides](https://goo.gl/cxuR61)
  6 | Propiedades residuales | [slides](https://goo.gl/aKRLJS)
  7 | Cálculo de fugacidad y coeficiente de fugacidad | [slides](https://goo.gl/Hpojgg)
- 
+
  ## Problemas y soluciones
- 
+
  Descripcion | Explicacion | Solucion
  -----------|--------------|---------
- [Uso de Ecuaciones de Estado](../problemas/T01-PengRob.md) | | [T01-Peng_Robinson.ipynb](../py/T01_013_cp_001.ipynb)
- [Coef. de Ec. de Antoine](../problemas/T01-Antoine.md) | | [T01-Antoine.ipynb](../py/T01_agl_coef_antoine.ipynb)
+ [Calculo de Trabajo de Eje usando Peng_Robinson](../problemas/T01-PengRob.md) | [T01-PR](https://youtu.be/jRo6iSUdXLQ) | [T01-Peng_Robinson.ipynb](../py/T01_013_cp_001.ipynb)
+ [Coef. de Ec. de Antoine](../problemas/T01-Antoine.md) |  | [T01-Antoine.ipynb](../py/T01_agl_coef_antoine.ipynb)
